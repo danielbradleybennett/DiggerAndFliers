@@ -1,0 +1,10 @@
+/Users/danielbennett/workspace/csharp/exercises/Diggers/bin/Debug/netcoreapp3.1/Diggers.deps.json
+/Users/danielbennett/workspace/csharp/exercises/Diggers/bin/Debug/netcoreapp3.1/Diggers.runtimeconfig.json
+/Users/danielbennett/workspace/csharp/exercises/Diggers/bin/Debug/netcoreapp3.1/Diggers.runtimeconfig.dev.json
+/Users/danielbennett/workspace/csharp/exercises/Diggers/bin/Debug/netcoreapp3.1/Diggers.dll
+/Users/danielbennett/workspace/csharp/exercises/Diggers/bin/Debug/netcoreapp3.1/Diggers.pdb
+/Users/danielbennett/workspace/csharp/exercises/Diggers/obj/Debug/netcoreapp3.1/Diggers.csprojAssemblyReference.cache
+/Users/danielbennett/workspace/csharp/exercises/Diggers/obj/Debug/netcoreapp3.1/Diggers.AssemblyInfoInputs.cache
+/Users/danielbennett/workspace/csharp/exercises/Diggers/obj/Debug/netcoreapp3.1/Diggers.AssemblyInfo.cs
+/Users/danielbennett/workspace/csharp/exercises/Diggers/obj/Debug/netcoreapp3.1/Diggers.dll
+/Users/danielbennett/workspace/csharp/exercises/Diggers/obj/Debug/netcoreapp3.1/Diggers.pdb
